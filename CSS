@@ -1,0 +1,209 @@
+header h1{
+  position:fixed;
+  top:0px;
+  left:45px;
+  
+}
+header h4{
+  position:fixed;
+  top:30px;
+  left:25px;
+  background-color: #e0ebe8;
+}
+#nav-bar{
+  position:fixed;
+  right:480px;
+  top:0px;
+}
+#nav-bar a{
+  color:black;
+  float:right;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration:none;
+  font-size:17px;
+}
+.nav-link:hover{
+  background-color:#4dff1c;
+}
+#buttons{
+  position:fixed;
+  right:10px;
+  top:15px;
+  
+}
+#butn{
+ background-color: #1ca0ff;
+}
+.butn{
+ background-color: #ff1c1c;
+}
+#buttons button{
+  color:black;
+  float:right;
+  text-align:center;
+  padding:4px 19px;
+  text-decoration:none;
+  font-size:17px;
+  border-radius: 15%;
+  
+}
+.botn{
+ background-color: #ff1c1c;
+ padding:4px 19px;
+ text-decoration:none;
+ font-size:17px;
+ border-radius: 15%;
+}
+.discription{
+  background-image: url("https://blog.advids.co/wp-content/uploads//2017/12/social-min.gif");
+  min-height: 55vh;
+  padding-top: 45vh;
+  text-align: center;
+}
+#discription {
+  border-radius:10%;
+  width:500px;
+  position:relative;
+  left:744px;
+  bottom:140px;
+  color: black;
+  background-color: #04b011;
+  height:300px;
+  text-align: ;
+}
+
+#discription h2 {
+  padding:60px;
+}
+
+#about {
+  min-height: 55vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background:white;
+}
+.about{
+  display:flex;
+}
+
+#about h2 {
+  text-align:center;
+  padding:0px 0px 50px 0px;
+}
+.outreach{
+  min-height: 55vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background:url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/08/48/5058140a9452286.jpg");
+  font-size:18px;
+}
+
+.reach {
+  text-align:center;
+  padding:0px 0px 20px 0px;
+}
+
+#image {
+  height:50px;
+  width:50px;  
+}
+#reach {
+  display:flex;
+  justify-content:center;
+  padding:35px 0px 0px 0px;
+}
+
+#workings{
+  min-height: 55vh;
+  padding-top: 25vh;
+  padding-bottom: 5vh;
+  background:#ffeae8;
+}
+#workings h2 {
+  text-align:center;
+  padding:0px 0px 27px 0px;
+}
+
+.frame iframe{
+  margin: 0px 0px 0px 420px;
+  padding:10px;
+  width:400px;
+  height:300px;
+}
+.frame button{
+ margin: 31px 0px 0px 570px;
+ padding:15px;
+ color:green;
+}
+
+.imah{
+  display:flex;
+}
+#imah{
+  height:210px;
+  width:200px;
+  padding:20px;
+}
+#offer{
+  min-height: 55vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background:url("https://world.fantasticimago.com/wp-content/uploads/2016/04/Blue-SEO-Dental-Dentist-Online-Marketing-Digital-Marketing-Website-Design-Background-c.jpg");
+  
+}
+#offer h2{
+  text-align:center;
+  padding:0px 0px 50px 0px;
+}
+.offer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  
+}
+
+.testi{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  
+}
+
+#testimonials{
+  min-height: 55vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background:#e8efff;
+}
+#testimonials h2{
+  text-align:center;
+  padding:0px 0px 50px 0px;
+}
+
+.test{
+  display:flex;
+}
+#test{
+  height:260px;
+  width:300px;
+  border: solid black;
+  margin: 10px;
+  padding: 20px;
+}
+
+#contacts h2 {
+  text-align:center;
+}
+
+#cont{
+  display:flex;
+}
+
+#acts{
+ margin: 10px;
+ padding: 0px 156px 1px 20px; 
+}
+#contacts{
+  background:#ffd4d1;
+}
